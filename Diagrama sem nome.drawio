@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T02:17:30.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2YTIsDeDsjiOF8y4nmGe" version="24.3.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-06T02:25:16.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YYLkE8IsPaIBveX2Sq82" version="24.3.1" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1583" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -771,7 +771,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nWAap2o--6bTcpvLbLrP" name="Page-10">
-    <mxGraphModel dx="1512" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -843,8 +843,8 @@
         <mxCell id="FA6jXyXokyEwD8r0YdkB-4" value="Peca" style="swimlane;whiteSpace=wrap;html=1;startSize=10;" parent="1" vertex="1">
           <mxGeometry x="210" y="110" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FA6jXyXokyEwD8r0YdkB-5" value="&lt;div&gt;preco&lt;/div&gt;&lt;div&gt;categoria&lt;/div&gt;&lt;div&gt;qnt_estoque&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FA6jXyXokyEwD8r0YdkB-4" vertex="1">
-          <mxGeometry y="10" width="90" height="70" as="geometry" />
+        <mxCell id="FA6jXyXokyEwD8r0YdkB-5" value="&lt;div&gt;preco&lt;/div&gt;&lt;div&gt;categoria&lt;/div&gt;&lt;div&gt;qnt_estoque&lt;/div&gt;&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FA6jXyXokyEwD8r0YdkB-4" vertex="1">
+          <mxGeometry width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FA6jXyXokyEwD8r0YdkB-8" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="315" y="270" width="30" height="30" as="geometry" />
