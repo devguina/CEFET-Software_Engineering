@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T02:45:13.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oRRbYeUzyQrnmYlIU-xi" version="24.5.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-06-07T02:48:58.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9ewcwrCXLchaa2BPyOKJ" version="24.5.1" type="github" pages="12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1737" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -975,8 +975,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyqGQQpk6JHtCttHEtnb-1" value="+exibir_preco (double preco)&lt;div&gt;+exibir_categoria(enum categoria)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="rgDFFXvex6kawsNSAiSR-47" vertex="1">
-          <mxGeometry y="70" width="210" height="40" as="geometry" />
+        <mxCell id="RyqGQQpk6JHtCttHEtnb-1" value="+exibir_preco ()&lt;div&gt;+exibir_categoria()&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="rgDFFXvex6kawsNSAiSR-47" vertex="1">
+          <mxGeometry y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rgDFFXvex6kawsNSAiSR-49" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="240" width="30" height="30" as="geometry" />
